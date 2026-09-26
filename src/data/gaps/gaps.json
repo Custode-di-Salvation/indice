@@ -1,0 +1,97 @@
+[
+  {
+    "id": "LAC-SAL-0001",
+    "domanda": "Quali nodi che dichiarano continuità con il Cenacolo sono autentici e realmente operativi?",
+    "oggetto": "Autenticità e operatività dei nodi esterni",
+    "rilevanza": "La Tavola non può attribuire autorità, affidare informazioni o coordinare attività con strutture la cui continuità istituzionale e capacità operativa non siano state accertate.",
+    "criterioSufficienza": "Autenticazione indipendente dell'identità di ciascun nodo e riscontro attuale della sua effettiva capacità operativa.",
+    "incidenza": "decisiva",
+    "stato": "aperta",
+    "recordCollegati": [],
+    "entitaCollegate": [],
+    "vincoli": [
+      "Non equiparare il possesso di conoscenze storiche a una prova di continuità.",
+      "Valutare separatamente autenticità istituzionale e capacità operativa attuale."
+    ],
+    "proponente": "DREBBEL",
+    "dataApertura": "2026-10-12",
+    "ultimoAtto": "2026-10-12",
+    "accessLevel": "ospite"
+  },
+  {
+    "id": "LAC-SAL-0002",
+    "domanda": "Quali organizzazioni sovrannaturali esercitano oggi influenza stabile su Salvation?",
+    "oggetto": "Presenza organizzata sovrannaturale a Salvation",
+    "rilevanza": "L'assenza di una mappa attendibile delle influenze organizzate impedisce di interpretare correttamente alleanze, conflitti, accessi e condizionamenti locali.",
+    "criterioSufficienza": "Identificazione delle organizzazioni attive accompagnata da riscontri indipendenti sulla continuità, sull'ambito e sulle modalità della loro influenza locale.",
+    "incidenza": "decisiva",
+    "stato": "aperta",
+    "recordCollegati": [],
+    "entitaCollegate": [],
+    "vincoli": [
+      "Distinguere una presenza occasionale da un'influenza stabile.",
+      "Non dedurre struttura o finalità comuni dalla sola somiglianza degli effetti osservati."
+    ],
+    "proponente": "DREBBEL",
+    "dataApertura": "2026-10-12",
+    "ultimoAtto": "2026-10-12",
+    "accessLevel": "ospite"
+  },
+  {
+    "id": "LAC-SAL-0003",
+    "domanda": "Quali fenomeni sovrannaturali presenti oggi a Salvation non risultano documentati nella vecchia Segreta?",
+    "oggetto": "Scarto tra i fenomeni attuali e la documentazione precedente alla Serrata",
+    "rilevanza": "La mancata distinzione tra fenomeni già noti, fenomeni non ancora ricogniti e fenomeni realmente nuovi altera la valutazione del quadro locale.",
+    "criterioSufficienza": "Ricognizione documentata della vecchia Segreta e confronto con un insieme verificato di fenomeni attualmente presenti a Salvation.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": ["SAL-DOC-0001"],
+    "entitaCollegate": [],
+    "vincoli": [
+      "Non trattare il materiale non ancora ricognito come documentazione assente.",
+      "Non classificare come nuovo un fenomeno sulla sola base di una denominazione diversa."
+    ],
+    "proponente": "DREBBEL",
+    "dataApertura": "2026-10-12",
+    "ultimoAtto": "2026-10-12",
+    "accessLevel": "ospite"
+  },
+  {
+    "id": "LAC-SAL-0004",
+    "domanda": "Quali eventi locali degli ultimi trent'anni avrebbero dovuto attirare l'attenzione del Cenacolo ma non risultano nella Segreta?",
+    "oggetto": "Eventi locali non rappresentati nella Segreta durante la chiusura",
+    "rilevanza": "Le omissioni relative al periodo di chiusura possono nascondere cambiamenti decisivi nel quadro sovrannaturale di Salvation e compromettere l'interpretazione dei fenomeni correnti.",
+    "criterioSufficienza": "Confronto documentato tra gli eventi locali pertinenti dal 1993 alla riapertura e il materiale della vecchia Segreta sottoposto a ricognizione completa.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": ["SAL-DOC-0001"],
+    "entitaCollegate": [],
+    "vincoli": [
+      "Applicare criteri di pertinenza sovrannaturale dichiarati e non retrospettivamente adattati al singolo evento.",
+      "Distinguere l'assenza documentale dalla perdita, dal mancato reperimento e dalla mancata acquisizione."
+    ],
+    "proponente": "DREBBEL",
+    "dataApertura": "2026-10-12",
+    "ultimoAtto": "2026-10-12",
+    "accessLevel": "ospite"
+  },
+  {
+    "id": "LAC-SAL-0005",
+    "domanda": "Quanto della rete esterna conosce l'esistenza della nuova Tavola di Salvation?",
+    "oggetto": "Diffusione esterna della conoscenza della riattivazione della Tavola",
+    "rilevanza": "La Tavola non può valutare esposizione, aspettative o iniziative provenienti dalla rete esterna senza sapere quali interlocutori conoscano la sua esistenza e attraverso quali canali.",
+    "criterioSufficienza": "Riscontri autenticati che permettano di distinguere i nodi informati, quelli presumibilmente informati e quelli per i quali non esiste alcuna evidenza di conoscenza.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": [],
+    "entitaCollegate": [],
+    "vincoli": [
+      "Non interpretare il silenzio di un nodo come prova che ignori la riattivazione.",
+      "Distinguere conoscenza dell'esistenza della Tavola da conoscenza della sua composizione o delle sue attività."
+    ],
+    "proponente": "DREBBEL",
+    "dataApertura": "2026-10-12",
+    "ultimoAtto": "2026-10-12",
+    "accessLevel": "ospite"
+  }
+]

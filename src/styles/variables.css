@@ -1,0 +1,116 @@
+/* ═══════════════════════════════════════════════════════════
+   INDICE: Design System Variables
+   Contemporary Archival / Institutional Intelligence Software
+   ═══════════════════════════════════════════════════════════ */
+
+:root {
+  /* ── Shell (dark frame) ── */
+  --shell: #101714;
+  --shell-panel: #17211D;
+  --shell-hover: #222D28;
+  --shell-active: #303A32;
+  --shell-border: #344039;
+  --shell-text: #AEB5AF;
+  --shell-text-bright: #EEE9DC;
+  --shell-muted: #89918B;
+
+  /* ── Paper (light document surfaces) ── */
+  --paper: #DDD8CC;
+  --paper-light: #F2EEE4;
+  --paper-hover: #E4DED1;
+  --paper-inset: #D6D0C3;
+
+  /* ── Lines & borders ── */
+  --line: #ACA596;
+  --line-light: #CBC4B5;
+  --line-dark: #817B6E;
+
+  /* ── Accent colors ── */
+  --archive-green: #526B5C;
+  --archive-green-light: #789184;
+  --brass: #9A8452;
+  --brass-dark: #78663F;
+  --brass-light: #C0A96F;
+  --burgundy: #733A35;
+  --burgundy-light: #8A4040;
+  --restriction-red: #733A35;
+  --deep-green: #2E4038;
+  --deep-green-light: #3A5048;
+
+  /* ── Text ── */
+  --text-dark: #171A18;
+  --text-body: #2C2F2D;
+  --text-muted: #6D706A;
+  --text-faint: #999690;
+
+  /* ── Status ── */
+  --status-active: #4A7A5A;
+  --status-dormant: #927D55;
+  --status-closed: #6D706A;
+  --status-alert: #8B4040;
+  --status-unknown: #6D706A;
+  --status-intermittent: #7A6B3A;
+  --status-local: #4A7A5A;
+
+  /* ── Reliability indicators ── */
+  --reliability-high: #4A7A5A;
+  --reliability-medium: #927D55;
+  --reliability-low: #8B4040;
+  --reliability-none: #6D706A;
+
+  /* ── Info classification ── */
+  --info-corroborated: #4A7A5A;
+  --info-unconfirmed: #927D55;
+  --info-contradiction: #8B4040;
+  --info-assessment: #56675E;
+  --info-missing: #6D706A;
+
+  /* ── Typography ── */
+  --font-sans: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'IBM Plex Mono', 'Menlo', 'Consolas', monospace;
+  --font-serif: 'Source Serif 4 Variable', 'Georgia', serif;
+
+  --text-xs: 0.6875rem;    /* 11px */
+  --text-sm: 0.75rem;      /* 12px */
+  --text-base: 0.8125rem;  /* 13px */
+  --text-md: 0.875rem;     /* 14px */
+  --text-lg: 1rem;         /* 16px */
+  --text-xl: 1.125rem;     /* 18px */
+  --text-2xl: 1.375rem;    /* 22px */
+  --text-3xl: 1.75rem;     /* 28px */
+
+  /* ── Spacing ── */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-7: 1.75rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+
+  /* ── Borders & Radius ── */
+  --radius-sm: 1px;
+  --radius-md: 2px;
+  --radius-lg: 3px;
+  --border-width: 1px;
+
+  /* ── Shadows ── */
+  --shadow-sm: 0 1px 1px rgba(17,20,18,0.08);
+  --shadow-md: 0 8px 24px rgba(17,20,18,0.10);
+
+  /* ── Transitions ── */
+  --transition-fast: 100ms ease;
+  --transition-normal: 150ms ease;
+  --transition-slow: 250ms ease;
+
+  /* ── Layout ── */
+  --sidebar-width: 238px;
+  --topbar-height: 62px;
+  --provenance-width: 330px;
+  --content-max-width: 1480px;
+  --manual-max-width: 860px;
+}

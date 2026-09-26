@@ -1,0 +1,9 @@
+[
+  {
+    "id":"SAL-DOC-0001","tipo":"rapporto","titolo":"Verbale di riapertura del nodo SAL","sommario":"Prima ricognizione del Fondaco e registrazione dello stato del nodo dopo la riattivazione.",
+    "dataOriginale":"2026-10-03","dataAcquisizione":"2026-10-03","nodo":"SAL","disponibilita":"locale","tipoRapporto":"rapporto_osservazione","prioritaTrasmissione":"ordinaria","file":"/archive/SAL-DOC-0001.txt","fileFormat":"testo",
+    "provenance":{"nodo":"SAL","responsabile":"DREBBEL","acquisizione":"2026-10-03","supporto":"Documento digitale nativo","autenticita":"verificata","integrita":"verificata","statoMateriale":"originale_digitale","storiaCustodiale":"Prodotto da DREBBEL sul Terminale SAL e conservato nel nodo locale dalla registrazione.","conversioniNote":[],"fissita":{"algoritmo":"SHA-256","impronta":"ac7c986fae229bff209f71abc82a784fb062f6d7d38eb23c2019046fc9703046","acquisizione":"2026-10-03","ultimaVerifica":"2026-10-12T21:40:00+02:00","esito":"corrispondente"},"corroborazioni":0,"contraddizioni":0,"ultimaRevisione":"2026-10-12"},
+    "entitaAssociate":[],"affidabilitaFonte":"F","credibilitaInformazione":3,"baseConoscenza":"diretta","validitaTemporale":"corrente","classificazioneAmbito":"intero_record_provvisoria",
+    "note":"Osservazioni di apertura non ancora replicate da un secondo operatore.","accessLevel":"ospite","ultimoAggiornamento":"2026-10-12"
+  }
+]
