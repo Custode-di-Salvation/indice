@@ -35,12 +35,15 @@ I file JSON non ammettono commenti, virgole finali o virgolette tipografiche. Us
 | Relazioni statiche | `src/data/relations/relations.json` |
 | Lacune | `src/data/gaps/gaps.json` |
 | Nodi | `src/data/nodes/nodes.json` |
+| Segnaposti autorizzati | `src/data/auth/segnaposti.json` |
 | Allegati digitali | `public/archive/` |
 | Atti analitici registrati dall'interfaccia | `local-data/concordance-ledger.json` |
 
 Il caricatore legge tutti i file JSON presenti nelle cartelle indicate e unisce gli array. È quindi possibile creare file aggiuntivi, ma ogni identificativo deve rimanere unico nell'intero progetto.
 
 Non modificare normalmente `local-data/concordance-ledger.json` a mano. Proposte, valutazioni, corroborazioni e contraddizioni operative devono essere depositate dall'interfaccia, che conserva Segnaposto e data dell'atto.
+
+Per autorizzare un nuovo Commensale, aggiungere il suo Segnaposto all'array `attivi` in `src/data/auth/segnaposti.json`. Usare la forma canonica in maiuscolo ed evitare duplicati. La rimozione dall'elenco invalida la sessione conservata nel browser al successivo caricamento.
 
 ## 3. Convenzione degli identificativi
 

@@ -2,6 +2,7 @@ import React, { createContext, useContext, useState, useEffect } from 'react';
 import type { AccessLevel } from '../types';
 import type { UserProfile } from '../utils/permissions';
 import { hasClearance } from '../utils/permissions';
+import { isActiveSegnaposto } from '../utils/credentials';
 
 interface AuthContextType {
   user: UserProfile | null;
@@ -15,6 +16,7 @@ function isStoredProfile(value: unknown): value is UserProfile {
   const profile = value as Partial<UserProfile>;
   return typeof profile.id === 'string'
     && typeof profile.identificativo === 'string'
+    && isActiveSegnaposto(profile.identificativo)
     && profile.role === 'commensale';
 }
 
@@ -36,6 +38,8 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
         const profile: unknown = JSON.parse(stored);
         if (isStoredProfile(profile)) {
           setUser(profile);
+        } else {
+          localStorage.removeItem('indice_auth_profile');
         }
       } catch (e) {
         // Clear if invalid

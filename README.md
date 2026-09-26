@@ -30,6 +30,7 @@ I dati sono separati dai componenti e vengono caricati all’avvio da file JSON.
 - `src/data/media/media.json`: media e riproduzioni;
 - `src/data/relations/relations.json`: relazioni confermate, ipotesi e contraddizioni;
 - `src/data/gaps/gaps.json`: lacune informative e stato corrente della conoscenza;
+- `src/data/auth/segnaposti.json`: Segnaposti autorizzati ad aprire una sessione locale;
 - `local-data/concordance-ledger.json`: proposte e valutazioni locali, conservate separatamente dai dati archivistici;
 - `src/data/nodes/nodes.json`: stato dei nodi conosciuti;
 - `content/manual/`: capitoli Markdown del Manuale di Tavola.
@@ -63,6 +64,8 @@ Il record può inoltre indicare `baseConoscenza` (diretta, indiretta, inferita o
 Prima dell’autenticazione INDICE non espone Quadro, Manuale, navigazione, ricerca o metadati. Un Commensale inserisce il proprio Segnaposto e avvicina al Terminale il proprio **Testimone di Tavola**. Il sistema confronta il legame con il contrassegno gemello associato al Segnaposto e apre la sessione quando la credenziale risulta ancora valida. Il flusso non richiede una password e non identifica civilmente il portatore. Non è previsto un accesso Ospite.
 
 Il Segnaposto riconosciuto viene salvato nel `localStorage` del browser e la sessione rimane vincolata a esso. Per presentare il Testimone di un altro Commensale occorre prima chiudere esplicitamente la sessione attiva. Un elemento con autorizzazione superiore resta visibile ma oscurato; se possiede anche `hidden: true`, viene rimosso da liste e ricerca per le credenziali non autorizzate. Il riconoscimento del Testimone è una rappresentazione narrativa locale: non sostituisce autenticazione hardware o un sistema di sicurezza per dati sensibili reali.
+
+L'interfaccia accetta soltanto i Segnaposti elencati come attivi in `src/data/auth/segnaposti.json`. Anche il servizio locale verifica lo stesso elenco prima di registrare un atto. Una sessione conservata nel browser viene chiusa automaticamente se il relativo Segnaposto non risulta più attivo.
 
 ## Preparazione dei rapporti
 

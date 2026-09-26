@@ -6,6 +6,7 @@ import type { IncomingMessage, ServerResponse } from 'node:http';
 
 const ledgerPath = path.resolve(__dirname, 'local-data/concordance-ledger.json');
 const dataPath = path.resolve(__dirname, 'src/data');
+const credentialsPath = path.join(dataPath, 'auth', 'segnaposti.json');
 const emptyLedger = { proposals: [], actions: [], assertionActions: [] };
 let writeQueue = Promise.resolve();
 
@@ -79,6 +80,11 @@ async function currentReferences() {
   return { entities, records, sources, media, relations };
 }
 
+async function activeSegnaposti() {
+  const parsed = JSON.parse(await fs.readFile(credentialsPath, 'utf8')) as { attivi?: unknown[] };
+  return new Set((parsed.attivi || []).filter((value): value is string => typeof value === 'string').map(value => value.trim().replace(/\s+/g, ' ').toLocaleUpperCase('it-IT')));
+}
+
 function concordanceLedger(): Plugin {
   const middleware = () => async (request: IncomingMessage, response: ServerResponse, next: () => void) => {
     const pathname = new URL(request.url || '/', 'http://indice.local').pathname;
@@ -89,6 +95,7 @@ function concordanceLedger(): Plugin {
       const body = await readBody(request);
       const segnaposto = String(body.segnaposto || '').trim().toLocaleUpperCase('it-IT');
       if (!/^[A-ZÀ-ÖØ-Ý0-9'’ -]{2,32}$/.test(segnaposto)) return json(response, 400, { error: 'Segnaposto non valido' });
+      if (!(await activeSegnaposti()).has(segnaposto)) return json(response, 403, { error: 'Segnaposto non riconosciuto o non attivo' });
       const references = await currentReferences();
       if (request.method === 'POST' && pathname === '/api/concordances/actions') {
         const relationId = String(body.relationId || '');

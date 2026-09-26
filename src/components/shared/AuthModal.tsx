@@ -1,5 +1,6 @@
 import { FormEvent, useEffect, useRef, useState } from 'react';
 import { useAuth } from '../../hooks/useAuth';
+import { isActiveSegnaposto, normalizeSegnaposto } from '../../utils/credentials';
 
 type ReaderStage = 'entry' | 'proximity' | 'verification' | 'accepted';
 
@@ -24,9 +25,13 @@ export function AuthModal({ onClose, required = false }: { onClose: () => void; 
 
   const beginAuthentication = (event: FormEvent) => {
     event.preventDefault();
-    const normalized = segnaposto.trim().replace(/\s+/g, ' ').toLocaleUpperCase('it-IT');
+    const normalized = normalizeSegnaposto(segnaposto);
     if (!/^[A-ZÀ-ÖØ-Ý0-9'’ -]{2,32}$/.test(normalized)) {
       setError('Segnaposto non riconoscibile. Usare da 2 a 32 caratteri.');
+      return;
+    }
+    if (!isActiveSegnaposto(normalized)) {
+      setError('Nessun contrassegno gemello attivo corrisponde al Segnaposto indicato.');
       return;
     }
 
