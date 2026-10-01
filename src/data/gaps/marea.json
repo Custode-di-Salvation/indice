@@ -1,0 +1,225 @@
+[
+  {
+    "id": "LAC-SAL-0006",
+    "domanda": "Quali sono lo stato attuale della chiusura presso Cauldron Lake, la durata del vincolo sull’Araldo e gli indicatori di cedimento?",
+    "oggetto": "Tenuta del contenimento e permanenza del vincolo",
+    "rilevanza": "MARAT ha osservato la chiusura locale e il collasso del Trono; non la durata del vincolo o la cessazione di tutte le interferenze.",
+    "criterioSufficienza": "Riscontri documentati e ripetuti sul punto di chiusura, con confronto degli indicatori originari e verifica della presenza di nuove anomalie.",
+    "incidenza": "decisiva",
+    "stato": "aperta",
+    "recordCollegati": [
+      "SAL-DOC-0002"
+    ],
+    "entitaCollegate": [
+      "SAL-EVT-0001",
+      "SAL-LOC-0003",
+      "SAL-OBJ-0001",
+      "SAL-OBJ-0002",
+      "SAL-PER-0001"
+    ],
+    "vincoli": [
+      "Deposito di MARAT acquisito il 20 ottobre 2026.",
+      "Distinguere chiusura osservata, conclusione della fase acuta e cessazione della contaminazione.",
+      "La paralisi iniziale non accerta la permanenza della Nigredo in ciclo.",
+      "Nuova materia nera, riapertura della faglia o cedimento della struttura richiedono revisione del giudizio."
+    ],
+    "proponente": "MARAT",
+    "dataApertura": "2026-10-20",
+    "ultimoAtto": "2026-10-20",
+    "accessLevel": "commensale"
+  },
+  {
+    "id": "LAC-SAL-0007",
+    "domanda": "Quali sono l’estensione delle interferenze, le destinazioni degli accessi e le condizioni di sopravvivenza negli spazi attraversati?",
+    "oggetto": "Spazi, transiti, effetti residui e dispersi",
+    "rilevanza": "Gli spazi hanno nomi descrittivi e rapporti non verificati. Il recupero di una persona viva non determina la sorte degli altri dispersi; la fine della fase acuta non certifica la sicurezza dei transiti.",
+    "criterioSufficienza": "Riscontri confrontabili che distinguano destinazioni, durata della permanenza, condizioni dei dispersi ed effetti dei collegamenti, permettendo di discriminare residui, strumenti di transito e altre interferenze.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": [
+      "SAL-DOC-0002"
+    ],
+    "entitaCollegate": [
+      "SAL-EVT-0001",
+      "SAL-FEN-0001",
+      "SAL-LOC-0004",
+      "SAL-LOC-0005",
+      "SAL-OBJ-0001"
+    ],
+    "vincoli": [
+      "Deposito di MARAT acquisito il 20 ottobre 2026.",
+      "Le identificazioni simboliche delle porte non equivalgono a destinazioni verificate.",
+      "Non assimilare foresta bianca o Nulla a territori fatati sulla base dei confronti folklorici.",
+      "Distinguere dispersione, isolamento, contaminazione e distruzione."
+    ],
+    "proponente": "MARAT",
+    "dataApertura": "2026-10-20",
+    "ultimoAtto": "2026-10-20",
+    "accessLevel": "commensale"
+  },
+  {
+    "id": "LAC-SAL-0008",
+    "domanda": "Quali interventi producono compensazione, stabilizzazione o danno alle emanazioni, e in quali condizioni possono essere replicati?",
+    "oggetto": "Funzione delle contromisure e dei collegamenti",
+    "rilevanza": "Gli effetti locali non dimostrano una regola generale fondata sull’Ordine. Collegamenti e pietre hanno sostenuto l’orientamento oppure introdotto trazione ostile.",
+    "criterioSufficienza": "Riscontri che distinguano contributi concomitanti, effetti sulla manifestazione e sulla sorgente, condizioni di efficacia e fallimento e destinazioni dei collegamenti.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": [
+      "SAL-DOC-0002"
+    ],
+    "entitaCollegate": [
+      "SAL-EVT-0001",
+      "SAL-FEN-0001",
+      "SAL-LOC-0005",
+      "SAL-OBJ-0001",
+      "SAL-OBJ-0002"
+    ],
+    "vincoli": [
+      "Deposito di MARAT acquisito il 20 ottobre 2026.",
+      "L’impiego combinato di musica, sale e luce non isola il contributo di ciascun elemento.",
+      "Compensazione e stabilizzazione non dimostrano danno alla sorgente.",
+      "Mascheramento e ammutinamento richiedono una valutazione della funzione oltre all’affinità.",
+      "Gli esemplari impiegati nel contenimento non sono disponibili come campioni."
+    ],
+    "proponente": "MARAT",
+    "dataApertura": "2026-10-20",
+    "ultimoAtto": "2026-10-20",
+    "accessLevel": "commensale"
+  },
+  {
+    "id": "LAC-SAL-0009",
+    "domanda": "Quali obiettivi effettivi perseguivano Ardat-lilî e Metatron e quali effetti hanno avuto i loro interventi?",
+    "oggetto": "Finalità degli interventi infernali e celesti",
+    "rilevanza": "Le dichiarazioni di Ardat e le condotte osservate dei due interlocutori non documentano una politica comune o un’alleanza fra Inferno e Paradiso.",
+    "criterioSufficienza": "Elementi di origine indipendente che distinguano dichiarazioni di Ardat, condotte osservate e conseguenze verificabili degli interventi.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": [
+      "SAL-DOC-0002"
+    ],
+    "entitaCollegate": [
+      "SAL-EVT-0001",
+      "SAL-OBJ-0002",
+      "SAL-PER-0001",
+      "SAL-PER-0002",
+      "SAL-PER-0003"
+    ],
+    "vincoli": [
+      "Deposito di MARAT acquisito il 20 ottobre 2026.",
+      "La spiegazione del Trono proviene da Ardat e va distinta dall’interruzione dei collegamenti osservata da MARAT.",
+      "Il frammento offerto non è stato utilizzato; le proprietà dichiarate non sono sperimentate.",
+      "MARAT non ha assistito al confronto successivo alla partenza di Metatron."
+    ],
+    "proponente": "MARAT",
+    "dataApertura": "2026-10-20",
+    "ultimoAtto": "2026-10-20",
+    "accessLevel": "commensale"
+  },
+  {
+    "id": "LAC-SAL-0010",
+    "domanda": "Quali riscontri indipendenti possono verificare le sequenze riferite da MARAT e il contesto della fotografia della cappella?",
+    "oggetto": "Verifica indipendente del deposito e della fotografia",
+    "rilevanza": "Rapporto, analisi e fotografia hanno la medesima origine. Alta confidenza di MARAT sulle osservazioni locali e integrità del file non equivalgono a corroborazione indipendente.",
+    "criterioSufficienza": "Acquisizione e confronto di testimonianze o documentazione di origine indipendente, con contesto e cronologia sufficienti a verificare le singole affermazioni.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": [
+      "SAL-DOC-0002",
+      "SAL-DOC-0003"
+    ],
+    "entitaCollegate": [
+      "SAL-EVT-0001",
+      "SAL-LOC-0003"
+    ],
+    "vincoli": [
+      "Deposito di MARAT acquisito il 20 ottobre 2026.",
+      "La fotografia documenta l’esterno e non l’interno o la sequenza del contenimento.",
+      "Il riconoscimento stilistico di fine Settecento non è una datazione verificata.",
+      "Valutare l’origine delle testimonianze prima di contarle come indipendenti."
+    ],
+    "proponente": "MARAT",
+    "dataApertura": "2026-10-20",
+    "ultimoAtto": "2026-10-20",
+    "accessLevel": "commensale"
+  },
+  {
+    "id": "LAC-SAL-0011",
+    "domanda": "Quali elementi permettono di determinare origine e natura del Nulla e di distinguere un meccanismo comune da più sistemi locali?",
+    "oggetto": "Natura del Nulla e rapporto fra le manifestazioni",
+    "rilevanza": "La disgregazione della continuità è un modello con confidenza moderata; meccanismo unico e natura primigena restano ipotesi con confidenza bassa.",
+    "criterioSufficienza": "Riscontri operativi discriminanti fra i meccanismi alternativi, con origine indipendente e condizioni di osservazione documentate.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": [
+      "SAL-DOC-0002"
+    ],
+    "entitaCollegate": [
+      "SAL-EVT-0001",
+      "SAL-FEN-0001",
+      "SAL-OBJ-0002"
+    ],
+    "vincoli": [
+      "Deposito di MARAT acquisito il 20 ottobre 2026.",
+      "I confronti con la Qabalah forniscono un linguaggio interpretativo, non la prova di anteriorità al Creato.",
+      "Non estendere il funzionamento locale del Trono a ogni manifestazione del Nulla."
+    ],
+    "proponente": "MARAT",
+    "dataApertura": "2026-10-20",
+    "ultimoAtto": "2026-10-20",
+    "accessLevel": "commensale"
+  },
+  {
+    "id": "LAC-SAL-0012",
+    "domanda": "Architrave, iscrizioni dell’altare e sistema del Trono appartengono alla stessa fase e quali funzioni ha avuto la cappella?",
+    "oggetto": "Cronologia e funzioni della cappella di Cauldron Lake",
+    "rilevanza": "MARAT propone una possibile reinterpretazione o successione di funzioni, senza ricostruzione storica accertata. Il senso di Forma e Verbo è più definito di quello dell’Opera.",
+    "criterioSufficienza": "Documentazione o riscontri materiali che consentano una cronologia relativa delle componenti e distinguano funzione originaria, trasformazioni e uso durante la Marea.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": [
+      "SAL-DOC-0002"
+    ],
+    "entitaCollegate": [
+      "SAL-LOC-0003",
+      "SAL-OBJ-0002"
+    ],
+    "vincoli": [
+      "Deposito di MARAT acquisito il 20 ottobre 2026.",
+      "Esodo e testi della creazione sono confronti simbolici; non identificano costruttori, prigionieri o destinatari della protezione.",
+      "La forma architettonica compatibile con fine Settecento non data altare e Trono.",
+      "Non identificare automaticamente Forma, Opera e Verbo con la Trinità."
+    ],
+    "proponente": "MARAT",
+    "dataApertura": "2026-10-20",
+    "ultimoAtto": "2026-10-20",
+    "accessLevel": "commensale"
+  },
+  {
+    "id": "LAC-SAL-0013",
+    "domanda": "Quale funzione svolgeva il tredici nei diversi elementi del sistema e quali cicli potevano essere alterati?",
+    "oggetto": "Ricorrenze numeriche e regolarità dei cicli",
+    "rilevanza": "La ricorrenza locale è valutata con confidenza moderata, ma una funzione complessiva comune non è accertata. La stasi della stanza dimostra un margine operativo in un caso.",
+    "criterioSufficienza": "Riscontri che associno ciascuna ricorrenza a una funzione osservabile e distinguano le condizioni in cui la modifica del ciclo produce o non produce effetti sul sistema.",
+    "incidenza": "rilevante",
+    "stato": "aperta",
+    "recordCollegati": [
+      "SAL-DOC-0002"
+    ],
+    "entitaCollegate": [
+      "SAL-EVT-0001",
+      "SAL-LOC-0003",
+      "SAL-PER-0001"
+    ],
+    "vincoli": [
+      "Deposito di MARAT acquisito il 20 ottobre 2026.",
+      "Tenere distinti durata del ciclo, firme, prostrati e difese dell’Araldo.",
+      "Le figure dell’altare sono quattordici: un sacerdote e tredici prostrati.",
+      "Book T e Mathers attestano significati diversi; non stabiliscono la funzione operativa del numero nella Marea."
+    ],
+    "proponente": "MARAT",
+    "dataApertura": "2026-10-20",
+    "ultimoAtto": "2026-10-20",
+    "accessLevel": "commensale"
+  }
+]

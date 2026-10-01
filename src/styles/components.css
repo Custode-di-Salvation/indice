@@ -244,6 +244,7 @@
 .document-ribbon { border: 1px solid rgba(115,58,53,.5); background: rgba(115,58,53,.075); color: var(--burgundy); padding: 9px 12px; margin-bottom: var(--space-5); font: 500 10px var(--font-mono); letter-spacing: .11em; text-align:center; }
 .document-lead { font: 1.15rem/1.62 var(--font-serif); color: var(--text-body); max-width: 820px; margin-bottom: var(--space-6); }
 .document-sheet p, .document-sheet li, .archive-notice, .alert-box p, .feature-panel p, .match-card p, .node-card p, .inventory-card p, .artefact-row p, .reader-copy p { text-align: justify; text-justify: inter-word; hyphens: auto; }
+.document-sheet .source-assessment { max-width: none; hyphens: none; }
 .alias-line { border-top: 1px dotted var(--line); border-bottom: 1px dotted var(--line); padding: var(--space-3) 0; margin-bottom: var(--space-5); }
 .alias-line span { font: var(--text-xs) var(--font-mono); color: var(--text-muted); margin-right: var(--space-4); }
 .metadata-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(145px,1fr)); gap: 0; border-top: 1px solid var(--line); border-left: 1px solid var(--line); margin: var(--space-5) 0; }

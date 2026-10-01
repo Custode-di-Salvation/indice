@@ -1,0 +1,84 @@
+[
+  {
+    "id": "SAL-EVT-0002",
+    "tipo": "evento",
+    "nome": "Asta inaugurale del Salvation Museum of History & Natural Sciences",
+    "stato": "in_revisione",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "data": "2026-09-24",
+    "luogo": "Salvation Museum of History & Natural Sciences",
+    "sintesi": "Asta tenuta il 24 settembre 2026 in occasione dell’inaugurazione dopo la ristrutturazione del museo. MARAT riferisce dodici lotti e aggiudicazioni per $2.129.059; la valutazione economica e comportamentale è depositata il 23 ottobre 2026. Pagamenti e proprietà definitive non verificati.",
+    "esito": "Dodici aggiudicazioni riportate per $2.129.059. I tre lotti maggiori rappresentano circa l’80,8%; incasso effettivo non accertato dal deposito.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-23",
+      "supporto": "Informazioni e giudizi ricavati dalla valutazione di MARAT (SAL-DOC-0004)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda dell’evento ricavata dal deposito analitico di MARAT e registrata il 23 ottobre 2026. Data e contesto dell’evento distinti dalla data di deposito; nessun riscontro indipendente aggiunto.",
+      "conversioniNote": [
+        "Sintesi dell’evento con dati riferiti e giudizi del depositante distinti; persone e opere trattate nel solo record analitico."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-23"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "L’asta inaugurale della ristrutturazione si è tenuta il 24 settembre 2026 presso il Salvation Museum of History & Natural Sciences. Il deposito di MARAT riporta dodici lotti, basi complessive di $20.875 e aggiudicazioni per $2.129.059; rapporto finale/basi pari a 101,99 volte.",
+        "fonti": [
+          "SAL-DOC-0004"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "I tre lotti maggiori sommano $1.720.801, circa l’80,8% delle aggiudicazioni. Corvi e fotografie anonimi sommano $1.136.752, circa il 53,4%. Le aggiudicazioni non attestano l’avvenuto pagamento o la destinazione definitiva delle opere.",
+        "fonti": [
+          "SAL-DOC-0004"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: poche contese concentrate hanno dominato il risultato e limitano l’uso dei prezzi come quotazioni ordinarie. La selezione dei sei lotti anonimi da parte di \"Elliot per anonimo\" e gli aggiornamenti per gruppi sono compatibili con istruzioni d’acquisto; identità e motivazione del mandante restano da accertare. Confidenza alta sul giudizio dichiarata da MARAT, non convalidata dalla Tavola.",
+        "fonti": [
+          "SAL-DOC-0004"
+        ],
+        "confidenza": "alta"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: Calhoun e Stoikov potrebbero possedere o controllare risorse elevate, se le offerte erano sostenibili. Le contese Calhoun/Stoikov e Coulson/Welfen incorporano verosimilmente una componente competitiva. Esposizioni dichiarate e coppie di rilancio non provano patrimonio personale o rapporti di amicizia e inimicizia.",
+        "fonti": [
+          "SAL-DOC-0004"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: la conoscenza privata della provenienza è una possibile spiegazione dell’interesse per il materiale anonimo. Restano alternative estetiche, personali, collezionistiche o legate al recupero e alla circolazione delle opere.",
+        "fonti": [
+          "SAL-DOC-0004"
+        ],
+        "confidenza": "bassa"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Pagamenti, soggetti che dispongono dei fondi, proprietà del denaro, destinatari, provenienza degli anonimi e contenuto del mandato non accertati. Mancano basi individuali e una riconciliazione nominativa completa: $81.502 restano senza attribuzione nella tabella. Errori nelle offerte, mancati pagamenti o nuovi dati su mandante e provenienza richiederebbero revisione dei giudizi.",
+        "fonti": [
+          "SAL-DOC-0004"
+        ]
+      }
+    ],
+    "tags": [
+      "Asta inaugurale",
+      "MARAT",
+      "Museo"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-23"
+  }
+]

@@ -1,6 +1,7 @@
 import type { ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import { useAuth } from '../../hooks/useAuth';
+import { api } from '../../utils/dataLoader';
 import { evaluateAccess } from '../../utils/permissions';
 import type { AccessLevel, Provenance } from '../../types';
 
@@ -34,7 +35,7 @@ export function ProvenancePanel({ provenance }: { provenance: Provenance }) {
     <dl className="metadata-stack">
       <div><dt>Nodo</dt><dd>{provenance.nodo}</dd></div>
       {provenance.responsabile && <div><dt>Responsabile</dt><dd>{provenance.responsabile}</dd></div>}
-      <div><dt>Acquisizione</dt><dd>{provenance.acquisizione}</dd></div>
+      <div><dt>Acquisizione</dt><dd>{provenance.acquisizione || 'Non determinata'}</dd></div>
       <div><dt>Supporto</dt><dd>{provenance.supporto}</dd></div>
       {provenance.autenticita && <div><dt>Autenticità</dt><dd>{provenance.autenticita.replace(/_/g, ' ')}</dd></div>}
       <div><dt>Integrità</dt><dd>{provenance.integrita.replace('_', ' ')}</dd></div>
@@ -57,5 +58,5 @@ export function ProvenancePanel({ provenance }: { provenance: Provenance }) {
 export function EmptyState({ children }: { children: ReactNode }) { return <div className="empty-state">{children}</div>; }
 
 export function EntityLink({ id, children }: { id: string; children?: ReactNode }) {
-  return <Link className="record-link" to={`/segreta/entita/${id}`}>{children || id}</Link>;
+  return <Link className="record-link" to={`/segreta/entita/${id}`}>{children || api.getEntityById(id)?.nome || id}</Link>;
 }

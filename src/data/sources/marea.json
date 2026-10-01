@@ -1,0 +1,35 @@
+[
+  {
+    "id": "SAL-SRC-0001",
+    "codename": "MARAT",
+    "tipo": "fonte_umana",
+    "gestione": "MARAT",
+    "stato": "attiva",
+    "affidabilita": "B",
+    "rapportiAssociati": [
+      "SAL-DOC-0002",
+      "SAL-DOC-0003",
+      "SAL-DOC-0004"
+    ],
+    "entitaAssociate": [
+      "SAL-EVT-0001",
+      "SAL-FEN-0001",
+      "SAL-LOC-0003",
+      "SAL-LOC-0004",
+      "SAL-LOC-0005",
+      "SAL-LOC-0007",
+      "SAL-OBJ-0001",
+      "SAL-OBJ-0002",
+      "SAL-PER-0001",
+      "SAL-PER-0002",
+      "SAL-PER-0003",
+      "SAL-EVT-0002"
+    ],
+    "identitaRistretta": true,
+    "motivoRestrizione": "Identità civile non esposta; attribuzione mediante Segnaposto.",
+    "noteValutazione": "Commensale riconosciuto dalla Tavola e valutato come fonte solitamente affidabile (B). Depositante, testimone e autore delle analisi collegate. L’accesso è diretto per le proprie esperienze e gli atti osservati, indiretto per le dichiarazioni ricevute e inferito per i giudizi. La confidenza analitica è dichiarata da MARAT per ciascun giudizio e non costituisce convalida della Tavola. La valutazione della fonte non si estende agli interlocutori citati o alle proprietà da loro dichiarate. Rapporti, analisi e fotografia provengono dal medesimo depositante; la pluralità dei documenti non costituisce corroborazione indipendente. Nessun riscontro di origine indipendente è registrato per i depositi associati.",
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-23",
+    "ultimoApporto": "2026-10-23"
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "id": "SAL-EVT-0001",
+    "tipo": "evento",
+    "nome": "Marea",
+    "stato": "in_revisione",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Manifestazione iniziata a Salvation il 26 marzo 2026, intorno alle 13:13. MARAT riferisce alterazioni di spazi, transiti e continuità personale, interventi infernali e celesti e il contenimento locale presso la cappella di Cauldron Lake. Tenuta ed effetti residui non accertati.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "MARAT riferisce un richiamo verso Salvation prima della manifestazione. Durante la Marea ha osservato geometrie mutevoli, accessi separati dalle destinazioni ordinarie, ripetizioni temporali e interferenze con ricordi, identità e corpo. I richiami analoghi riferiti da altri restano dichiarazioni ricevute; non è accertata una causa comune.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Al Grand Northern Hollow sono state ottenute compensazione locale e stasi sufficienti all’evacuazione. Al Salvation Rest Lodge & Restaurant, MARAT ha stabilizzato il camminamento e partecipato al recupero di una persona viva dalla foresta innevata. I risultati derivavano da più interventi concomitanti.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Nella cappella di Cauldron Lake, MARAT ha interrotto i collegamenti del Trono e predisposto con le pietre reattive un vincolo ciclico sull’Araldo. Altri partecipanti ne hanno completato l’inserimento e la fissazione nella faglia. MARAT ha osservato pietrificazione, chiusura dell’apertura e collasso del Trono.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: la disgregazione delle relazioni e della continuità collega utilmente gli episodi. Il modello presuppone che le esperienze siano confrontabili e che le interferenze non abbiano alterato in modo decisivo il ricordo. Restano possibili più meccanismi locali; la spiegazione unica ha confidenza bassa.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: la stabilizzazione di confini e configurazioni ha offerto margini operativi; la cooperazione ha consentito risultati che non possono essere attribuiti a una sola capacità. Compensazione e stabilizzazione non equivalgono a danno accertato alla sorgente. La classificazione generale delle capacità efficaci ha confidenza bassa.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: gli eventi successivi sono compatibili con la conclusione della fase acuta come sovrapposizione manifesta. Le anomalie nei transiti impediscono di dedurne la cessazione di ogni contaminazione. L’estensione degli effetti residui ha confidenza bassa.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Mancano verifica successiva della tenuta e riscontri indipendenti sulle sequenze. Nuove anomalie presso Cauldron Lake, riapparizione della materia nera, cedimento del vincolo o ulteriori interferenze nei transiti richiederebbero la revisione del giudizio.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20",
+    "data": "2026-03-26",
+    "esito": "Chiusura locale osservata da MARAT; conclusione della fase acuta valutata con confidenza moderata. Durata, tenuta ed estensione degli effetti residui non accertate."
+  },
+  {
+    "id": "SAL-FEN-0001",
+    "tipo": "fenomeno",
+    "nome": "Nulla",
+    "stato": "in_revisione",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Denominazione della minaccia associata alla Marea nel deposito di MARAT. La disgregazione della continuità è un modello interpretativo; origine, natura ultima ed estensione del Nulla restano indeterminate.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "MARAT associa al Nulla le alterazioni e la materia ostile incontrate durante la Marea. Il rapporto documenta effetti locali e non un’osservazione dell’origine o della natura ultima del fenomeno.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: il modello di disgregazione riguarda relazioni fra spazi, tempi, ricordi, identità e corpo. Un unico meccanismo responsabile non è accertato: restano ammissibili manifestazioni sostenute da più strutture o processi locali.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: atti simbolici legati all’Ordine e a principi affini potrebbero danneggiare le emanazioni del Nulla. Le protezioni hanno però prodotto anche semplice compensazione o stabilizzazione; musica ritmica, sale e luce sono stati impiegati insieme. Mascheramento dissonante e ammutinamento hanno ottenuto risultati attraverso funzioni differenti. Non è stabilita una regola generale di efficacia.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "bassa"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: Ain, Ain Soph e Ain Soph Aur offrono un linguaggio per ipotizzare una natura primigena del Nulla. Il confronto con Mathers (RD-08 nel rapporto) non ne dimostra l’anteriorità al Creato o l’identità metafisica: la non manifestazione descritta nell’opera conserva possibilità generative.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "bassa"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Origine, estensione e relazione fra episodi non determinate. La chiusura locale non prova distruzione del Nulla o cessazione della contaminazione. Riscontri su meccanismi distinti o su effetti di compensazione anziché danno richiederebbero di rivedere il modello.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20"
+  },
+  {
+    "id": "SAL-LOC-0003",
+    "tipo": "luogo",
+    "nome": "Cappella sul fondo di Cauldron Lake",
+    "stato": "in_revisione",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Cappella in legno emersa sul fondale nord-occidentale di Cauldron Lake durante la Marea. MARAT ne ha fotografato l’esterno e osservato iscrizioni, oggetti rituali e la dilatazione dello spazio verso la camera del Trono.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "MARAT descrive un edificio rettangolare di legno scuro, integro ma gonfio d’acqua e deteriorato, con fondamenta nel fango del fondale esposto. Le forme gli apparivano compatibili con cappelle rurali di fine Settecento; si tratta di un riconoscimento stilistico, non di una datazione accertata. L’esterno è documentato dalla fotografia SAL-DOC-0003, proveniente dallo stesso depositante.",
+        "fonti": [
+          "SAL-DOC-0002",
+          "SAL-DOC-0003"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Il portone putrefatto era accostato. L’architrave recava il versetto di Esodo 15,5 sulle profondità e la discesa come pietra. La navata unica presentava calcare, alghe morte, fango e assi marcescenti, senza panche nella parte centrale iniziale. Il calore aumentava verso l’abside.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Sull’altare di calcare nero e legno erano raffigurati un sacerdote e tredici prostrati, quattordici figure complessive. L’iscrizione chiedeva di spogliare di significato Forma, Opera e Verbo. Una vasca conteneva materia nera fangosa e ribollente; attorno erano disposti sfera armillare di ottone, campana liturgica di ghisa e registro di cuoio con tredici firme rossastre.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Un altro partecipante ha associato gli oggetti a Forma, Opera e Verbo e proposto di preservarli per opporsi al loro svuotamento. MARAT ha ascoltato e condiviso la scelta: l’interpretazione ricevuta resta distinta dalla lettura delle iscrizioni e dagli oggetti osservati.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Una membrana nera immobile davanti alla parete dietro l’altare si è aperta. Lo spazio si è dilatato: pavimento simile a ghiaccio, foschia, travi sospese, ramificazioni biancastre, panche di pietra rovesciate, blocchi infranti, lampadari di ferro e cervo decapitato con zampe spezzate. Sagome umane apparivano fuori sincrono. In fondo si trovavano Araldo, Trono e faglia.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: la prescrizione contro Forma e Verbo è compatibile con un rovesciamento del linguaggio biblico della creazione (RD-03). La corrispondenza dell’Opera è meno definita; non è proposta un’identità automatica con la Trinità. Il giudizio presuppone che le iscrizioni siano pertinenti al funzionamento del sistema.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: il versetto dell’Esodo (RD-04) può richiamare sommersione, protezione e controllo del passaggio. La cappella potrebbe essere stata reinterpretata o avere avuto funzioni successive; iscrizione esterna, altare e Trono non sono datati relativamente.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "bassa"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Storia, costruttori, natura delle sagome e funzioni originarie non accertati. La fotografia documenta l’esterno e non conferma autonomamente interno, eventi o cronologia. La verifica delle fasi costruttive e rituali potrebbe modificare l’interpretazione.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20"
+  },
+  {
+    "id": "SAL-LOC-0004",
+    "tipo": "luogo",
+    "nome": "Foresta bianca",
+    "stato": "incompleto",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Denominazione descrittiva della foresta innevata raggiunta dalla seconda porta a sinistra del Salvation Rest Lodge & Restaurant. MARAT vi ha visto una persona dispersa viva e cosciente, poi recuperata.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "L’accesso era contrassegnato dal numero 108 e da una linea orizzontale. MARAT ha visto la persona oltre la soglia; un mascheramento dissonante concordato ha consentito di accompagnarla fuori senza resistenza.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: nel caso osservato dispersione e annientamento non coincidevano. Il ritrovamento vivo sostiene la distinzione fra isolamento, contaminazione e distruzione, senza stabilire condizioni generali di sopravvivenza. La confidenza sul singolo caso deriva dall’osservazione diretta.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "alta"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: Tam Lin (RD-05) offre un confronto sul riconoscimento e sulla continuità personale attraverso le trasformazioni. Il confronto può guidare domande sui collegamenti persistenti, ma non convalida una procedura di recupero.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: l’identificazione della foresta come territorio fatato o Elfland non è sostenuta dai confronti con Tam Lin e Thomas Rhymer. Non sono determinati natura e rapporto con gli altri spazi.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "bassa"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Durata della permanenza, condizioni di sopravvivenza, localizzazione e sicurezza dell’accesso non accertate. Il recupero non può essere generalizzato ad altri dispersi.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20"
+  },
+  {
+    "id": "SAL-LOC-0005",
+    "tipo": "luogo",
+    "nome": "Regione di cancellazione",
+    "stato": "incompleto",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Denominazione descrittiva dell’ambiente verso cui fu deviato un transito di MARAT durante la Marea. Sono riferite perdita dei riferimenti e lacerazione dell’essenza; la natura dell’ambiente non è determinata.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Durante il transito, MARAT ha sperimentato perdita dei riferimenti e lacerazione dell’essenza. Le pietre trasportate hanno aggravato la trazione verso l’ambiente ostile. Recuperare il collegamento con la destinazione ha consentito l’uscita.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: i legami persistenti possono sostenere l’orientamento oppure introdurre una trazione ostile secondo la sorgente a cui connettono. L’effetto delle pietre e quello del collegamento con la destinazione vanno distinti; il mantenimento di un legame non lo rende automaticamente protettivo.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Localizzazione, meccanismo della deviazione e rapporto con Nulla, Spiagge o foresta bianca non accertati. Il nome descrive l’esperienza riferita e non identifica un territorio. Nuovi riscontri sulle destinazioni e sulle sorgenti dei collegamenti potrebbero modificare la valutazione.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20"
+  },
+  {
+    "id": "SAL-LOC-0007",
+    "tipo": "luogo",
+    "nome": "Insediamento nella foresta e accesso sotterraneo",
+    "stato": "incompleto",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Insediamento nella foresta con una pietra anomala e un accesso a passaggi sotterranei del periodo del Proibizionismo, successivamente riutilizzati. MARAT riferisce che l’insediamento soprastante è bruciato; rete sotterranea e pietra non sono verificate nello stato attuale.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "MARAT riferisce l’osservazione di una pietra anomala e di un accesso a vecchi passaggi sotterranei riconducibili al Proibizionismo e successivamente riutilizzati. L’insediamento soprastante è stato distrutto da un incendio e risulta bruciato.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Le ulteriori informazioni su pietre, soglie, cappella e punti cittadini con funzioni di accumulo, alimentazione o contenimento sono dichiarazioni ricevute. MARAT non ha assistito a tutti gli episodi e non presenta una ricostruzione verificata del sistema.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Estensione e stato attuale dei passaggi, collocazione della pietra e rapporto fra questa e gli esemplari usati durante la Marea non accertati. La distruzione dell’insediamento non dimostra la distruzione dei sotterranei.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20"
+  },
+  {
+    "id": "SAL-OBJ-0001",
+    "tipo": "oggetto",
+    "nome": "Pietre reattive",
+    "stato": "in_revisione",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Pietre trasportate durante la Marea che, secondo MARAT, hanno aggravato la trazione in un transito e sono state impiegate nel vincolo sull’Araldo. I due esemplari del contenimento sono rimasti incorporati nell’intervento.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "MARAT riferisce che le pietre trasportate hanno aggravato la deviazione verso la regione di cancellazione. Non ne deriva una proprietà protettiva generale o una misura dell’effetto separata dalle condizioni del transito.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Per il contenimento, MARAT ha recuperato due pietre e affidato una a un altro partecipante. Sulla propria ha tracciato con gesso Ouroboros e Zolfo, con la traversa congiunta al serpente, attivato il sigillo e collocato la pietra in una tasca della giacca dell’Araldo. L’altro partecipante ha riprodotto e attivato il disegno, inserendo la seconda nella tasca opposta.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: l’impiego mirava a una Nigredo in ciclo, con decomposizione e rigenerazione senza configurazione stabile. Ouroboros e Zolfo trovano un precedente documentale nell’emblema XIV dell’Atalanta fugiens (RD-02). La confidenza riguarda l’intenzione del proprio atto e la sequenza osservata, non la persistenza del processo.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "alta"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: la trazione ostile sostiene il carattere condizionato dei collegamenti. Occorre distinguere la connessione con la destinazione cercata da quella con una sorgente coinvolta nella contaminazione.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "I due esemplari sono rimasti incorporati nell’intervento e non sono disponibili come campioni. Composizione, equivalenza con la pietra degli antecedenti, proprietà fuori dal contesto osservato e durata del vincolo non determinate.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20",
+    "collocazione": "Due esemplari incorporati nell’intervento di contenimento; collocazione della pietra degli antecedenti non verificata."
+  },
+  {
+    "id": "SAL-OBJ-0002",
+    "tipo": "oggetto",
+    "nome": "Trono",
+    "stato": "in_revisione",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Seggio di pietra bianca nella camera dilatata della cappella di Cauldron Lake, collegato alla faglia da filamenti neri. MARAT ne ha interrotto i collegamenti; la struttura è crollata al completamento del contenimento.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "MARAT descrive pietra bianca grezza, altezza di circa due metri e incisioni a spirale pulsanti di luce rossa. Una frattura verticale nera era sospesa sopra lo schienale. Filamenti simili a catrame collegavano Trono e frattura e vibravano allo stesso ritmo delle incisioni.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Ardat-lilî ha dichiarato che il Trono invertiva l’energia diretta alla faglia e che l’Araldo ne manteneva attiva la funzione. L’eventuale alimentazione della breccia mediante tentativi di chiusura è una spiegazione ricevuta, distinta dagli effetti osservati da MARAT.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "MARAT ha mantenuto il palmo sulla pietra per circa dieci secondi, imponendo ammutinamento, e si è seduto per completare simbolicamente l’usurpazione. Ha osservato arresto delle pulsazioni, spirali sfarfallanti e luce nero-violacea; i filamenti si sono staccati e dissolti. Dopo la fissazione dell’Araldo, il Trono si è spezzato e il ronzio e la pressione sono cessati.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: la sequenza locale è direttamente osservata. La confidenza riguarda l’interruzione dei collegamenti e il collasso della struttura; non certifica tutti gli aspetti della spiegazione di Ardat.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "alta"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: almeno una componente della manifestazione era modificabile localmente. L’inversione è associata nel deposito a un dispositivo e a una relazione di controllo; non è dimostrata come proprietà di ogni manifestazione del Nulla. Altri meccanismi restano possibili.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Origine, storia e condizioni di replicabilità del dispositivo non accertate. Il collasso non prova la distruzione del Nulla o l’assenza di strutture analoghe; nuovi riscontri potrebbero modificare il modello locale.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20"
+  },
+  {
+    "id": "SAL-PER-0001",
+    "tipo": "persona",
+    "nome": "Araldo del Nulla",
+    "stato": "in_revisione",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Entità incontrata da MARAT nella camera del Trono durante la Marea. Immobilizzata mediante sigilli sulle pietre reattive, inserita e fissata nella faglia, si è pietrificata come componente della chiusura locale. Identità personale omessa.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "MARAT ha osservato l’Araldo presso il Trono. Il mantenimento del meccanismo d’inversione da parte dell’entità è attribuito alla spiegazione di Ardat-lilî, non a una verifica indipendente della sua funzione.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Dopo l’attivazione dei due sigilli Ouroboros e Zolfo, MARAT ha visto l’Araldo sfarfallare e restare paralizzato. Altri partecipanti lo hanno sollevato, incastonato nella frattura e fissato. La sua materia si è espansa e pietrificata fino a saldarsi ai margini; al posto dell’apertura è rimasta pietra inerte.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: l’intenzione del vincolo era costringere decomposizione e rigenerazione a ripetersi senza un recupero stabile. Il precedente alchemico è RD-02 nel rapporto. La confidenza alta riguarda l’intenzione dell’intervento e la sequenza osservata.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "alta"
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: lo sfarfallio e la paralisi sono compatibili con il vincolo previsto. Non dimostrano l’impossibilità assoluta di distruggere l’Araldo o la permanenza del ciclo nella struttura pietrificata. Il ragionamento su una sua provenienza o composizione legata al Nulla resta un’ipotesi.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "bassa"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Condizione attuale dell’entità, durata del vincolo e funzione complessiva del tredici nelle sue difese non accertate. Cedimento della chiusura o nuove manifestazioni richiederebbero una revisione.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20",
+    "ruolo": "Entità presso il Trono e componente della chiusura locale osservata da MARAT; funzione nel meccanismo descritta da Ardat-lilî."
+  },
+  {
+    "id": "SAL-PER-0002",
+    "tipo": "persona",
+    "nome": "Ardat-lilî",
+    "stato": "in_revisione",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Demone progenitore intervenuto all’esterno del Grand Northern Hollow durante la Marea. MARAT riferisce una spiegazione della funzione del Trono e un’offerta di un presunto frammento del Principe, non accettata.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "MARAT riferisce l’intervento di Ardat-lilî all’esterno dell’hotel e la sua descrizione del Trono come struttura d’inversione mantenuta dall’Araldo. Il rischio di alimentare la breccia tentando di chiuderla è una dichiarazione dell’interlocutrice.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Ardat ha offerto un oggetto definito frammento del Principe, dichiarando che avrebbe aggirato il Trono e consentito l’intervento sul contenimento. L’offerta non è stata accettata e l’oggetto non è stato utilizzato: proprietà e provenienza dichiarate non sono state sperimentate.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "valutazione",
+        "contenuto": "Valutazione di MARAT: le dichiarazioni di Ardat e l’intervento successivo sul Trono sono compatibili con un meccanismo locale modificabile. Questa compatibilità non convalida automaticamente tutte le sue dichiarazioni né le proprietà dell’oggetto offerto.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ],
+        "confidenza": "moderata"
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Obiettivi effettivi e condizioni dell’offerta non accertati. Il deposito non documenta una politica comune dell’Inferno, un’alleanza con il Paradiso o un sostegno disinteressato ai presenti.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20",
+    "alias": [
+      "Ardat"
+    ],
+    "ruolo": "Demone progenitore; interlocutrice sul Trono e proponente di un intervento alternativo durante la Marea."
+  },
+  {
+    "id": "SAL-PER-0003",
+    "tipo": "persona",
+    "nome": "Metatron",
+    "stato": "in_revisione",
+    "provenienza": "salvation",
+    "nodo": "SAL",
+    "sintesi": "Entità angelica di alto rango comparsa dopo il contenimento. MARAT riferisce una frequenza avversa dolorosa e attacchi contro alcuni presenti, incluso sé stesso.",
+    "provenance": {
+      "nodo": "SAL",
+      "responsabile": "MARAT",
+      "acquisizione": "2026-10-20",
+      "supporto": "Informazioni e valutazioni ricavate dal deposito di MARAT (SAL-DOC-0002)",
+      "autenticita": "non_verificata",
+      "integrita": "verificata",
+      "statoMateriale": "estratto",
+      "storiaCustodiale": "Scheda derivata dal rapporto e dalle analisi del medesimo depositante. Osservazioni, dichiarazioni ricevute e giudizi sono distinti nei blocchi informativi. Date di redazione e trasmissione non indicate; acquisizione al nodo SAL il 20 ottobre 2026.",
+      "conversioniNote": [
+        "Sintesi per entità delle informazioni del deposito; identità degli altri partecipanti omesse.",
+        "Integrazione dei giudizi pertinenti di MARAT, con confidenza, limiti e condizioni di revisione; nessuna convalida della Tavola."
+      ],
+      "corroborazioni": 0,
+      "contraddizioni": 0,
+      "ultimaRevisione": "2026-10-20"
+    },
+    "infoBlocks": [
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Dopo il contenimento, MARAT ha sperimentato una frequenza avversa dolorosa e assistito ad attacchi contro alcuni presenti, incluso sé stesso, associati alla manifestazione di Metatron.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "non_confermato",
+        "contenuto": "Un partecipante ha successivamente portato via Metatron. MARAT non ha assistito al confronto seguente.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      },
+      {
+        "tipo": "mancante",
+        "contenuto": "Obiettivi di Metatron e conseguenze del confronto seguente non sono accertati dal deposito. L’intervento non documenta una politica comune del Paradiso, un’alleanza con Ardat o una garanzia di sicurezza per i partecipanti.",
+        "fonti": [
+          "SAL-DOC-0002"
+        ]
+      }
+    ],
+    "tags": [
+      "Marea",
+      "MARAT"
+    ],
+    "accessLevel": "commensale",
+    "ultimoAggiornamento": "2026-10-20",
+    "ruolo": "Entità angelica di alto rango intervenuta dopo il contenimento locale della Marea."
+  }
+]

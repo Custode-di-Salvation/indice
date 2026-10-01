@@ -32,6 +32,11 @@ export interface Record {
   credibilitaInformazione?: InformationCredibility;
   baseConoscenza?: KnowledgeBasis;
   validitaTemporale?: InformationValidity;
+  analisiDepositante?: {
+    autore: string;
+    sintesiConfidenza: string;
+    notaConfidenza: string;
+  };
   classificazioneAmbito?: 'intero_record_provvisoria' | 'affermazioni_distinte';
   restrizioni?: string;
   note?: string;

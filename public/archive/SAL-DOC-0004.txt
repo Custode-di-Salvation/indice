@@ -1,0 +1,178 @@
+INDICE / NODO SAL
+SAL-DOC-0004
+ASTA INAUGURALE: VALUTAZIONE ECONOMICA E COMPORTAMENTALE DI MARAT
+
+Tipo di rapporto: valutazione analitica.
+Depositante e autore dei giudizi: MARAT.
+Evento: asta inaugurale della ristrutturazione del Salvation Museum of History & Natural Sciences.
+Data dell’evento: 24 settembre 2026.
+Data di deposito al nodo SAL: 23 ottobre 2026.
+Data di redazione: non indicata.
+Diffusione: interna alla Tavola SAL.
+
+DOMANDA
+
+Che cosa indicano le offerte e le aggiudicazioni dell’asta sulle priorità degli acquirenti, sulla componente competitiva delle contese e sull’eventuale presenza di acquisti per conto di un mandante? Quali elementi consentono di distinguere origine della ricchezza, provenienza dei fondi destinati alla transazione e facoltà di disporne?
+
+GIUDIZIO PRINCIPALE
+
+MARAT valuta che il risultato economico dell’asta sia stato dominato da poche contese concentrate, anziché da una rivalutazione uniforme delle opere. The Fallen Crow, Estudio para un santo rey e The Martyrdom of the Crow rappresentano insieme circa l’80,8% del totale delle aggiudicazioni riportate. I prezzi incorporano priorità individuali, componente benefica e competizione; non costituiscono una misura direttamente trasferibile al mercato ordinario degli artisti.
+
+Il principale elemento da approfondire è la selezione attribuita a "Elliot per anonimo". Le offerte su tutti e sei i lotti anonimi, gli aggiornamenti di più posizioni in una stessa sessione e i limiti differenti per opera sono compatibili con l’esecuzione di un mandato d’acquisto. L’ipotesi di lavoro di MARAT è che la selezione risponda a istruzioni e priorità di un mandante, la cui identità e motivazione restano sconosciute. Una preferenza estetica comune rimane un’alternativa; una conoscenza privata dell’attribuzione o della provenienza non è accertata.
+
+Le contese Calhoun/Stoikov e Coulson/Welfen suggeriscono che la presenza dell’avversario abbia contribuito al valore attribuito alla prosecuzione dei rilanci. Queste corrispondenze descrivono comportamenti d’asta e non dimostrano rapporti personali di amicizia o inimicizia. L’acquisizione dei tre Nightmare da parte di Welfen è coerente con un interesse per la completezza della serie; la riallocazione di Morgan è coerente con una preferenza per l’artista che ammette opere sostitutive.
+
+La somma delle offerte contemporaneamente prevalenti indica l’esposizione dichiarata in quel momento. MARAT la considera un indicatore significativo della capacità di mobilitare fondi, a condizione che gli impegni fossero validi e sostenibili. Non consente, da sola, di accertare liquidità disponibile, patrimonio personale, proprietà del denaro o avvenuto pagamento. Offerente, proprietario dei fondi, pagatore e destinatario dell’opera possono essere soggetti differenti.
+
+CONFIDENZA
+
+I gradi seguenti sono dichiarati da MARAT e riguardano i singoli giudizi; non costituiscono una convalida della Tavola o una corroborazione indipendente dei dati sottostanti.
+
+Alta sulla concentrazione del risultato in poche contese e sulla limitata rappresentatività dei prezzi finali come quotazioni ordinarie. La valutazione si fonda sulla distribuzione delle aggiudicazioni e sulle sequenze competitive riferite.
+
+Alta sulla selezione sistematica del materiale anonimo attribuita a "Elliot per anonimo" e sulla compatibilità degli aggiornamenti per gruppi di offerte con istruzioni eseguite su più lotti. Questo grado non certifica identità, mandato o motivazione del compratore.
+
+Moderata sull’ipotesi che Calhoun e Stoikov possiedano o controllino risorse sostanzialmente superiori a quelle richieste per una partecipazione collezionistica locale ordinaria. Il giudizio dipende dall’assunzione che le offerte riflettessero impegni effettivamente sostenibili; importi ed esecuzione dei pagamenti non sono accertati dal deposito.
+
+Moderata sulla componente competitiva delle contese Calhoun/Stoikov e Coulson/Welfen, distinta dal valore degli oggetti. Le priorità personali e il rapporto con opere e artisti non sono completamente separabili dalla rivalità.
+
+Bassa sull’ipotesi che l’interesse per i lotti anonimi dipenda da conoscenza privata della loro vera provenienza. I dati permettono di formulare più spiegazioni, ma non di sceglierne una.
+
+INFORMAZIONI DETERMINANTI
+
+Base di conoscenza e criteri di lettura
+
+MARAT riferisce la propria partecipazione e ricostruisce offerte, aggiudicazioni, sequenze di rilancio e informazioni di catalogo. Gli importi e le sequenze riportati costituiscono la base del deposito; profili degli artisti, provenienza delle opere e caratteristiche degli offerenti restano attribuiti alla ricostruzione di MARAT. I calcoli aggregano questi dati e non ne verificano autonomamente l’origine.
+
+Per massima esposizione simultanea si intende la somma delle offerte con cui una stessa voce risultava contemporaneamente in testa su più lotti, non la somma di tutti i rilanci effettuati. Le cifre finali sono indicate come aggiudicazioni attribuite; non sono presentate come pagamenti verificati.
+
+MARAT distingue tre aspetti: origine complessiva della ricchezza, provenienza dei fondi della singola transazione e facoltà di disporne. Un’offerta può coinvolgere denaro personale, credito, risorse societarie, familiari, di un trust, di un fondo o di un mandante. La forma dell’offerta non determina quale sia il caso.
+
+Quadro dei lotti
+
+Importi in dollari ($), come indicati nel deposito. "n.i." significa non indicato. Le descrizioni delle tre fotografie sono riferimenti redazionali alla successione delle voci nel deposito, non titoli o numeri ufficiali di lotto.
+
+I titoli sono abbreviati nella tabella; quelli delle opere sono riportati per intero nel testo.
+
+Opera             |  Base |  Finale
+------------------+-------+--------
+Vara de oro       | 1.800 |  80.001
+Reina del valle   | 3.200 | 100.000
+Estudio santo rey | 4.500 | 600.001
+Nightmare XXIX    |  n.i. |  60.205
+Nightmare XLIII   |  n.i. |  40.100
+Nightmare LXXI    |  n.i. | 112.000
+Fallen Crow       |   400 | 770.000
+Four Crows        |   600 |   7.001
+Martyrdom Crow    |   800 | 350.800
+Foto, prima voce  |  n.i. |   5.100
+Foto, seconda     |  n.i. |   1.501
+Foto, terza       |  n.i. |   2.350
+
+Dodici lotti. Somma delle basi riportata: $20.875. Totale delle aggiudicazioni: $2.129.059. Rapporto fra totale finale e basi: 101,99 volte. Le basi individuali non indicate impediscono di ricostruire integralmente il primo totale dalla tabella.
+
+I tre lotti maggiori totalizzano $1.720.801, pari all’80,8% circa. I tre corvi e le tre fotografie totalizzano $1.136.752, pari al 53,4% circa. I tre Nightmare totalizzano $212.305.
+
+Silva Mendoza
+
+MARAT riferisce un curriculum pubblico comprendente fiere internazionali, esposizioni fra Madrid e Los Angeles e presenza in una collezione museale. Ritiene le basi da $1.800 a $4.500 compatibili con prezzi di partenza invitanti per un’asta benefica, anziché con perizie complete. La valutazione di un mercato nelle quattro o nelle cinque cifre basse è un giudizio di MARAT, non una quotazione accertata.
+
+Vara de oro è stata aggiudicata a 44,4 volte la base, La reina del valle a 31,3 volte ed Estudio para un santo rey a 133,3 volte. MARAT considera i primi due risultati compatibili con una combinazione di collezionismo, beneficenza e competizione. Per Estudio attribuisce particolare peso alla contesa fra Calhoun e Stoikov: il prezzo esprime quanto il vincitore era disposto a impegnare per ottenere il lotto anziché lasciarlo all’altro. Non ne ricava automaticamente una nuova valutazione dell’artista.
+
+Riley Rose Hill
+
+Il profilo riportato comprende BFA presso SAIC, produzione recente e attività di consulenza artistica. Secondo la lettura del catalogo riferita da MARAT, non vi era indicazione di un mercato secondario importante o di un curriculum istituzionale comparabile a quello di Mendoza. MARAT giudica difendibili basi comprese fra $2.000 e $4.000 per il livello descritto; il deposito non assegna ciascuna base a uno specifico Nightmare.
+
+Welfen si è aggiudicata tutti e tre i Nightmare. MARAT interpreta la concentrazione come interesse per un corpus completo: dopo due acquisizioni, la terza può avere un valore aggiuntivo rispetto al suo prezzo isolato. Non considera le aggiudicazioni nuove quotazioni ordinarie dell’artista. L’eventuale controllo su futuri prestiti, esposizioni o rivendite presuppone che le acquisizioni siano state perfezionate e che le opere restino riunite.
+
+Corvi e fotografie
+
+I tre corvi sono descritti nel deposito come opere anonime, di provenienza ignota e donate anonimamente al museo. La disparità fra i $7.001 di The Four Crows e i $770.000 e $350.800 degli altri due sostiene l’utilità di esaminare il valore attribuito ai singoli pezzi, oltre all’interesse per il gruppo.
+
+Le tre fotografie sono descritte come materiale non catalogato rinvenuto nel seminterrato, con alcune casse identificate soltanto da un anno. MARAT ritiene gli importi compatibili con un interesse storico, estetico o documentario locale e attribuisce maggiore rilevanza alla selezione degli offerenti. Le indicazioni di catalogo non accertano autore, datazione o storia custodiale.
+
+Esposizioni e aggiudicazioni attribuite
+
+Importi in dollari ($). Esp. max.: massima esposizione simultanea. Agg.: aggiudicazioni attribuite.
+
+La tabella abbrevia i nominativi con il cognome. Elliot indica la voce "Elliot per anonimo"; il cognome di Rachel non è indicato. Gli offerenti trattati soltanto nel prospetto sono Silas Holloway, Valerian Belmont, André Fontenot, James Stone, Isabel Silva Mendoza e Vance Davis.
+
+Offerente     | Esp. max. |    Agg.
+--------------+-----------+--------
+Stoikov       | 1.240.000 | 770.000
+Calhoun       | 1.200.001 | 607.002
+Elliot        | 1.121.350 | 358.250
+Holloway      |   380.001 |       0
+Belmont       |   353.005 |       0
+Rachel        |   350.675 |       0
+Morgan        |   250.106 | 100.000
+Welfen        |   212.305 | 212.305
+Coulson       |   211.210 |       0
+Fontenot      |    51.000 |       0
+Stone         |   50.000* |    n.i.
+Silva Mendoza |    30.000 |       0
+Davis         |    28.000 |       0
+
+* Per James Stone è esclusa l’offerta finale effettuata per suo conto da terzi. L’importo finale a lui attribuibile non è indicato; non equivale a zero.
+
+Controllo aritmetico del deposito: gli importi finali nominativamente indicati sommano $2.047.557. Rispetto al totale dei lotti rimangono $81.502 senza attribuzione completa nella tabella. Il residuo non viene assegnato a un offerente per deduzione. Le esposizioni massime individuali non vanno sommate come esposizione simultanea complessiva dell’asta: i rispettivi massimi possono essere stati raggiunti in momenti diversi.
+
+Condotte individuali e lettura di MARAT
+
+Lazaro Calhoun. Esposizione massima $1.200.001; aggiudicazioni attribuite $607.002, oltre a una precedente donazione di importo non indicato. Il deposito riporta rilanci da $250.100 a $250.101, da $353.003 a $353.004, da $420.000 a $420.001, da $550.000 a $550.001 e da $600.000 a $600.001. MARAT interpreta gli incrementi minimi come una tattica che induce l’altro a dichiarare una soglia nuova, rivelando soltanto la disponibilità a superarla. Divertimento, pressione e comunicazione possono concorrere con lo scopo d’acquisto. Il comportamento non dimostra quale fosse il limite finale di Calhoun.
+
+Lazar Stoikov. Esposizione massima $1.240.000; aggiudicazione attribuita $770.000. Sono riportate offerte di $400.000, $420.000, $450.000, $550.000 e $600.000. MARAT considera le cifre nette compatibili con soglie specifiche per lotto; gli aggiornamenti di più posizioni nella stessa sessione suggeriscono una gestione strutturata, anziché una reazione a ogni singolo rilancio. I limiti preordinati e la provenienza delle risorse non sono verificati.
+
+Elliot per anonimo. Esposizione massima $1.121.350; aggiudicazioni attribuite $358.250. La voce ha seguito tutti i sei lotti anonimi e aggiornato più posizioni per gruppi. Su The Fallen Crow è arrivata a $760.000 senza vincere; su The Martyrdom of the Crow si è imposta a $350.800 dopo i $350.675 di Rachel. MARAT considera il comportamento compatibile con acquisizione delegata e priorità differenti per opera. La denominazione della voce non verifica da sola identità del mandante, contenuto delle istruzioni o proprietà dei fondi.
+
+Abel Coulson. Esposizione massima $211.210; nessuna aggiudicazione attribuita. MARAT riporta centoventi offerte su quattro lotti, con una lunga sequenza contro Welfen su Nightmare XXIX fino a $60.200 e prosecuzione oltre $111.000 su Nightmare LXXI. L’assenza di una successiva riallocazione comparabile su opere generiche sostiene, nella lettura del depositante, una motivazione composta da opera, artista, avversario e vittoria. L’esito a zero non cancella la disponibilità a impegnarsi mostrata durante la contesa; non prova però l’esistenza dei fondi.
+
+Agatha Welfen. Esposizione massima e aggiudicazioni attribuite $212.305. Si è aggiudicata l’intero gruppo dei tre Nightmare. MARAT considera il comportamento coerente con una logica di completezza e individua ulteriori opere della serie come indicatori utili per verificare la previsione. La capacità di saldare e il possesso definitivo non sono accertati dall’aggiudicazione.
+
+Rachel, cognome non indicato. Esposizione massima $350.675; nessuna aggiudicazione attribuita. MARAT la descrive come ventitreenne, mercenaria e vagabonda; questa descrizione non è una ricostruzione patrimoniale. Su The Martyrdom of the Crow sono riportate offerte di $2.000, $15.000 e $350.675, seguite dall’offerta vincente di Elliot senza un ulteriore rilancio di Rachel. MARAT interpreta il salto come compatibile con un tentativo di scoraggiare gli altri e l’arresto come compatibile con una soglia. I $675 potrebbero derivare da autorizzazione esterna, disponibilità residua, cambio valutario, calcolo patrimoniale, significato personale o eccentricità. Non è privilegiata alcuna spiegazione; l’apparente distanza dal profilo economico non dimostra fondi altrui.
+
+Charlotte Morgan. Esposizione massima $250.106; aggiudicazione attribuita $100.000. Dopo la contesa su Estudio para un santo rey, Morgan ha spostato l’interesse su La reina del valle, passando da $28.000 a $100.000. MARAT interpreta la riallocazione come compatibile con una preferenza per Mendoza e con la disponibilità ad accettare un’opera sostitutiva. Il salto è compatibile con una funzione deterrente; i $100.000 finali non rappresentano il limite massimo già mostrato nelle offerte.
+
+MARAT riferisce inoltre di aver rilanciato Coulson di un dollaro anche per divertimento e afferma che avrebbe potuto acquistare l’intera asta senza modificare materialmente il proprio patrimonio. Utilizza il proprio comportamento come limite alla lettura delle offerte.
+
+ASSUNZIONI
+
+Il confronto fra le strategie presuppone che sequenze, identità delle voci e tempi di aggiornamento siano stati ricostruiti correttamente. Il calcolo delle esposizioni presuppone che le offerte considerate fossero valide e contemporaneamente prevalenti; gli estremi temporali necessari a replicarlo non sono riportati integralmente nel deposito.
+
+L’inferenza sulla capacità di mobilitare risorse presuppone la sostenibilità degli impegni e non esclude credito, fondi societari, familiari o delegati. L’interpretazione di Elliot come intermediario presuppone che la denominazione "per anonimo" corrisponda a una delega effettiva. La lettura della completezza per Welfen presuppone che il legame fra le tre opere avesse valore per l’acquirente; quella della rivalità presuppone che le risposte dipendessero anche dall’avversario, oltre che dal lotto.
+
+ALTERNATIVE RILEVANTI
+
+I prezzi possono incorporare sostegno al museo, interesse collezionistico, significato personale, legame con l’artista, completezza della serie o competizione. Un interesse specifico per i corvi può dipendere da attribuzione o provenienza conosciute privatamente, precedente proprietà, riconoscimento di soggetti o luoghi, recupero di materiale, volontà di impedirne l’acquisto ad altri oppure semplice preferenza estetica.
+
+Per Elliot restano possibili una selezione estetica del gruppo anonimo, un mandato con limiti per lotto, ricomposizione di materiale separato o sottrazione alla circolazione. Gli aggiornamenti per gruppi possono riflettere istruzioni, ma anche semplice amministrazione del tempo. Le soglie nette di Stoikov e quella di Rachel possono avere origini differenti; la forma del numero non determina la motivazione.
+
+INFORMAZIONI CONTRARIE E LIMITI
+
+MARAT stesso riferisce una componente ludica nei rilanci: una lettura puramente patrimoniale o professionale non descriverebbe correttamente neppure il suo caso. La componente benefica dell’evento e basi invitanti possono contribuire agli scarti senza richiedere informazioni private. La differenza fra i tre corvi limita l’ipotesi di un valore uniforme della categoria, ma non identifica la causa del valore dei singoli pezzi.
+
+Per Welfen la completezza è un’inferenza dalla selezione. Per Morgan l’opera sostitutiva limita l’ipotesi di un bisogno assoluto del Santo Rey. Per Coulson l’assenza di aggiudicazioni non consente di verificare attraverso pagamenti la capacità economica ipotizzata. Per Rachel il cognome incompleto e la descrizione del profilo non autorizzano una stima patrimoniale.
+
+Il deposito non consente una riconciliazione nominativa completa delle aggiudicazioni né la replica indipendente di tutti i massimi simultanei. Le basi individuali mancanti non vengono ricostruite per ipotesi. I massimi riportati non sono tutti contemporanei fra loro. Identità del compratore, pagatore e destinatario, pagamento eseguito e passaggio definitivo di proprietà non sono equivalenti all’aggiudicazione.
+
+I richiami generali del testo di partenza a Treasury e FATF non sono accompagnati da documenti identificati: non sono utilizzati come corroborazione o fondamento normativo dei giudizi. Anonimato, intermediari e strutture societarie non costituiscono, da soli, una prova di illecito. La selezione degli oggetti non ne dimostra la natura sovrannaturale o un collegamento con la Marea.
+
+LACUNE
+
+Restano da chiarire identità e mandato del compratore rappresentato da Elliot, priorità per singolo lotto e caratteristica comune dei materiali selezionati. Autore, provenienza e storia custodiale dei corvi e delle fotografie non sono accertati dalla descrizione riportata.
+
+La riconciliazione richiede cronologia completa delle offerte, basi individuali, attribuzioni finali e chiarimento delle offerte effettuate per conto di James Stone. Occorre distinguere impegni dichiarati, pagamenti eseguiti e proprietà definitiva. Per ogni transazione rilevante restano aperti origine della ricchezza, provenienza dei fondi e soggetto autorizzato a disporne.
+
+MARAT individua come dati pertinenti all’approfondimento intestatario della fattura, pagatore materiale, natura del conto o della struttura utilizzata, eventuale terzo pagatore, indirizzo di fatturazione, destinatario e destinazione dell’opera, soggetto assicurato ed eventuale separazione fra compratore, pagatore e destinatario. Questi sono elementi da verificare, non informazioni già acquisite.
+
+Non è determinato quanto dei comportamenti sia stabile e quanto dipenda da questo evento, dalle opere o dagli avversari. L’effettivo interesse di Welfen per la completezza e le possibili soglie esterne di Rachel richiedono ulteriori riscontri.
+
+CONDIZIONI DI REVISIONE
+
+Errori nella cronologia, offerte non valide, mancati pagamenti o attribuzioni differenti modificherebbero i giudizi sulle esposizioni e sulla capacità di mobilitare fondi. Pagamenti effettuati da terzi potrebbero chiarire la separazione fra controllo e proprietà. La ricostruzione del residuo di $81.502 e dell’offerta per conto di James Stone aggiornerebbe il quadro delle aggiudicazioni.
+
+Identificazione del mandante, istruzioni documentate, nuove informazioni di provenienza o variazioni nella selezione di Elliot potrebbero confermare o indebolire l’ipotesi di acquisizione delegata. La verifica richiederebbe di confrontare caratteristiche dei lotti e tempi di aggiornamento, evitando di trattare l’anonimato come spiegazione sufficiente.
+
+MARAT propone di confrontare in eventi successivi frequenza e ampiezza dei superamenti reciproci, tempi di risposta e variazioni di strategia quando cambia l’avversario. Le aspettative di lavoro sono: uso del denaro anche come comunicazione per Calhoun; soglie specifiche per lotto per Stoikov; maggiore persistenza competitiva in presenza di un rivale riconoscibile per Coulson; valore aggiuntivo di opere che completino la serie per Welfen; verifica prioritaria della provenienza dei fondi in ulteriori spese di Rachel; possibilità di riallocazione per Morgan; aggiornamenti per gruppi e priorità tematiche per Elliot. Sono previsioni da verificare, non caratteri personali già accertati.
+
+FINE DELLA VALUTAZIONE ANALITICA
